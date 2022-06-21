@@ -1,3 +1,16 @@
+# TENZIES
+
+Welcome to Tenzies! You can play the game via this [link](https://dissyulina.github.io/react-tenzies/).   
+![Tenzies](./src/images/tenzies-start.png "Tenzies")
+
+Click all dice with the same number, and roll the dice.
+![Click the same numbers](./src/images/tenzies-clicked.png "Click the same numbers")
+
+Repeat the process until all dice are clicked, and you'll win the game!
+![You win!](./src/images/tenzies-win.png "You win!")
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
